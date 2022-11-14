@@ -1,0 +1,90 @@
+/* display method */
+.likes-dislikes {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    justify-content: flex-start;
+}
+
+/* ol list style type and margin-right */
+
+#likes {
+    margin-right: 50px;
+    list-style: square;
+}
+
+ol {
+    margin-right: 20px;
+    list-style: disc;
+}
+
+/* ol h3 text color */
+
+#likes h3 {
+    color: #0d345c;
+}
+
+ol h3 {
+    color: red;
+}
+
+/* ol li text color  */
+#likes .likes {
+    color: #0d345c;
+}
+
+ol li {
+    color: green;
+}
+
+/* ol li margin-bottom */
+
+#likes .likes {
+    margin-bottom: 10px;
+}
+
+ol li {
+    margin-bottom: 30px;
+}
+
+/* ul margin-left */
+
+#dislikes {
+    margin-left: 100px;
+}
+
+ul {
+    margin-left: 50px;
+}
+
+/* ul h3 color */
+
+#dislikes h3 {
+    color: #bc100a;
+}
+
+ul h3 {
+    color: #pink;
+}
+
+/* ul li text color */
+#dislikes li {
+    color: #bc100a;
+}
+
+ul li {
+    color: grey;
+}
+
+/* ul li margin-bottom */
+
+#dislikes .dislikes {
+    margin-bottom: 10px;
+}
+
+ul li {
+    margin-bottom: 50px;
+}

@@ -1,0 +1,60 @@
+body {
+    padding: 20px;
+    background-color: white;
+}
+
+.section1 {
+    color: green;
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+.heading,
+h3 {
+    text-align: center;
+}
+
+h1 :not(.heading) {
+    font-size: 18px;
+}
+
+.section1 a {
+    color: green;
+}
+
+.A {
+    margin: auto;
+    border-bottom: 1px solid green;
+    border-width: 4px;
+    width: 1000px;
+}
+
+.section2 {
+    color: red;
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+.section2 ul li {
+    list-style: disc;
+}
+
+.B {
+    margin: auto;
+    border-bottom: 1px solid red;
+    border-width: 4px;
+    width: 1000px;
+}
+
+.section3 {
+    color: blue;
+    font-size: 14px;
+    margin-top: 50px;
+}
+
+.C {
+    margin: auto;
+    border-bottom: 1px solid blue;
+    border-width: 4px;
+    width: 1000px;
+}
